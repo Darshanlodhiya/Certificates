@@ -12,3 +12,7 @@
 
 # 5. KCG Certificate
 <img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/b7a1fd3c-1ee9-4ca9-91c3-98b70c7a314d" />
+
+# 6. Getting started with Data for Data Analytics 
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/29778f0c-2598-46fb-8a52-67faeaa32b00" />
+
